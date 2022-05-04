@@ -6,6 +6,7 @@ public class multipleFive {
             if(i%5==0)
             {
                 System.out.println(i);
+				System.out.println("Test");
 
             }
         }
